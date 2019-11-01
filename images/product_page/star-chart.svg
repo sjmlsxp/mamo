@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="298px" height="105px" viewBox="0 0 298 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 39</title>
+    <desc>Created with Sketch.</desc>
+    <g id="3.Visual-interface" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop_Reviews" transform="translate(-80.000000, -1206.000000)">
+            <g id="Review" transform="translate(0.000000, 896.000000)">
+                <g id="Group-31" transform="translate(80.000000, 268.000000)">
+                    <g id="Group-39" transform="translate(0.000000, 39.000000)">
+                        <g id="Group-37">
+                            <rect id="Rectangle" fill="#D8D8D8" fill-rule="nonzero" x="37" y="5" width="220" height="10" rx="4"></rect>
+                            <path d="M41,5 L206,5 L206,15 L41,15 C38.790861,15 37,13.209139 37,11 L37,9 C37,6.790861 38.790861,5 41,5 Z" id="Rectangle" fill="#333333" fill-rule="nonzero"></path>
+                            <g id="Group-33" fill="#999999">
+                                <text id="5" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal">
+                                    <tspan x="0" y="15">5</tspan>
+                                </text>
+                                <polygon id="Star" stroke="#999999" fill-rule="nonzero" points="19 13 15.4732885 14.854102 16.1468305 10.927051 13.2936609 8.14589803 17.2366442 7.57294902 19 4 20.7633558 7.57294902 24.7063391 8.14589803 21.8531695 10.927051 22.5267115 14.854102"></polygon>
+                            </g>
+                            <g id="Group-33-Copy" transform="translate(269.000000, 0.000000)" fill="#999999" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal">
+                                <text id="82%">
+                                    <tspan x="0" y="15">82%</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-36" transform="translate(0.000000, 23.000000)">
+                            <rect id="Rectangle-Copy-9" fill="#D8D8D8" fill-rule="nonzero" x="37" y="5" width="220" height="10" rx="4"></rect>
+                            <path d="M41,5 L72,5 L72,15 L41,15 C38.790861,15 37,13.209139 37,11 L37,9 C37,6.790861 38.790861,5 41,5 Z" id="Rectangle-Copy-9" fill="#333333" fill-rule="nonzero"></path>
+                            <g id="Group-33-Copy-2" fill="#999999">
+                                <text id="4" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal">
+                                    <tspan x="0" y="15">4</tspan>
+                                </text>
+                                <polygon id="Star" stroke="#999999" fill-rule="nonzero" points="19 13 15.4732885 14.854102 16.1468305 10.927051 13.2936609 8.14589803 17.2366442 7.57294902 19 4 20.7633558 7.57294902 24.7063391 8.14589803 21.8531695 10.927051 22.5267115 14.854102"></polygon>
+                            </g>
+                            <g id="Group-33-Copy-6" transform="translate(269.000000, 0.000000)" fill="#999999" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal">
+                                <text id="12%">
+                                    <tspan x="0" y="15">12%</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-38" transform="translate(0.000000, 46.000000)">
+                            <rect id="Rectangle-Copy-10" fill="#D8D8D8" fill-rule="nonzero" x="37" y="5" width="220" height="10" rx="4"></rect>
+                            <path d="M41,5 L49,5 L49,15 L41,15 C38.790861,15 37,13.209139 37,11 L37,9 C37,6.790861 38.790861,5 41,5 Z" id="Rectangle-Copy-10" fill="#333333" fill-rule="nonzero"></path>
+                            <g id="Group-33-Copy-3" fill="#999999">
+                                <text id="3" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal">
+                                    <tspan x="0" y="15">3</tspan>
+                                </text>
+                                <polygon id="Star" stroke="#999999" fill-rule="nonzero" points="19 13 15.4732885 14.854102 16.1468305 10.927051 13.2936609 8.14589803 17.2366442 7.57294902 19 4 20.7633558 7.57294902 24.7063391 8.14589803 21.8531695 10.927051 22.5267115 14.854102"></polygon>
+                            </g>
+                            <g id="Group-33-Copy-7" transform="translate(269.000000, 0.000000)" fill="#999999" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal">
+                                <text id="5%">
+                                    <tspan x="0" y="15">5%</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-35" transform="translate(0.000000, 69.000000)">
+                            <rect id="Rectangle-Copy-11" fill="#D8D8D8" fill-rule="nonzero" x="37" y="5" width="220" height="10" rx="4"></rect>
+                            <path d="M41,5 L43,5 L43,15 L41,15 C38.790861,15 37,13.209139 37,11 L37,9 C37,6.790861 38.790861,5 41,5 Z" id="Rectangle-Copy-11" fill="#333333" fill-rule="nonzero"></path>
+                            <g id="Group-33-Copy-4" fill="#999999">
+                                <text id="2" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal">
+                                    <tspan x="0" y="15">2</tspan>
+                                </text>
+                                <polygon id="Star" stroke="#999999" fill-rule="nonzero" points="19 13 15.4732885 14.854102 16.1468305 10.927051 13.2936609 8.14589803 17.2366442 7.57294902 19 4 20.7633558 7.57294902 24.7063391 8.14589803 21.8531695 10.927051 22.5267115 14.854102"></polygon>
+                            </g>
+                            <g id="Group-33-Copy-8" transform="translate(269.000000, 0.000000)" fill="#999999" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal">
+                                <text id="1%">
+                                    <tspan x="0" y="15">1%</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-34" transform="translate(0.000000, 92.000000)">
+                            <rect id="Rectangle-Copy-12" fill="#D8D8D8" fill-rule="nonzero" x="37" y="5" width="220" height="10" rx="4"></rect>
+                            <g id="Group-33-Copy-5" fill="#999999">
+                                <text id="1" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal">
+                                    <tspan x="0" y="15">1</tspan>
+                                </text>
+                                <polygon id="Star" stroke="#999999" fill-rule="nonzero" points="19 13 15.4732885 14.854102 16.1468305 10.927051 13.2936609 8.14589803 17.2366442 7.57294902 19 4 20.7633558 7.57294902 24.7063391 8.14589803 21.8531695 10.927051 22.5267115 14.854102"></polygon>
+                            </g>
+                            <g id="Group-33-Copy-9" transform="translate(269.000000, 0.000000)" fill="#999999" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal">
+                                <text id="0%">
+                                    <tspan x="0" y="15">0%</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
